@@ -1,0 +1,9 @@
+﻿{
+  "name": "chronosedu",
+  "version": "2.6.0",
+  "private": true,
+  "description": "ChronosEdu - Intelligent School Timetable & Academic Operations Platform",
+  "scripts": {
+    "start": "npx serve ."
+  }
+}
